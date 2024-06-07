@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T03:54:55.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="i2APK3BF_cTVnfBbOa98" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T05:18:35.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="nO_flhqUgvVWIwt9BDOV" version="24.5.1" type="github">
   <diagram name="Page-1" id="Zy-w6W-C0kYEm2fz4P6m">
     <mxGraphModel dx="1431" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
             <mxPoint x="736" y="501" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9aLiCNh6eFGl1xrJVVZ-5" value="ResNet Conv" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="r9aLiCNh6eFGl1xrJVVZ-5" value="ResNet Conv" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="740" y="486" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r9aLiCNh6eFGl1xrJVVZ-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=3.7373737373737366;endSize=1.293283582089552;width=2.835820895522388;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
@@ -250,7 +250,7 @@
             <mxPoint x="736" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9aLiCNh6eFGl1xrJVVZ-7" value="Convolution" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="r9aLiCNh6eFGl1xrJVVZ-7" value="Convolution" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="740" y="505" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r9aLiCNh6eFGl1xrJVVZ-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=3.7373737373737366;endSize=1.293283582089552;width=2.835820895522388;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
@@ -259,7 +259,7 @@
             <mxPoint x="736" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9aLiCNh6eFGl1xrJVVZ-9" value="Deconvolution" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="r9aLiCNh6eFGl1xrJVVZ-9" value="Deconvolution" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="740" y="525" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r9aLiCNh6eFGl1xrJVVZ-12" value="RGB Image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
